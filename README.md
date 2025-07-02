@@ -18,11 +18,9 @@
 - Question : “Avez-vous déjà vu un écran en panne dans un magasin ?”
 - Montrer des exemples d’écrans d’erreurs dans des lieux publics :
 
-  - ![Exemple 1 – erreur Windows pub](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Windows_XP_Blue_Screen_in_Public.svg/1920px-Windows_XP_Blue_Screen_in_Public.svg.png)
-  - ![Exemple 2 – écran pub avec erreur](https://www.lemondeinformatique.fr/mediatheque/6/0/1/000670106.jpg)
-  - ![Exemple 3 – écran transport](https://i.stack.imgur.com/lhRCg.jpg)
+Voici quelques cas réels où des écrans publics affichent des messages d'erreur. Cela montre que le **code est partout**, même là où on ne l’imagine pas !
 
-- Expliquer : tous ces écrans sont des programmes qui tournent → quand il y a un bug, on voit le message du développeur.
+[Écrans erreurs](https://cheezburger.com/11502341/very-public-computer-errors)
 
 ---
 
