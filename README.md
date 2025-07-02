@@ -1,4 +1,4 @@
-# 🎓 Présentation CM2 – Le métier de développeur
+# 🎓 Présentation CM1-CM2 – Le métier de développeur
 **Durée : ~20 minutes**
 
 > Objectif : faire découvrir le métier de développeur de manière ludique, concrète et interactive.
@@ -64,7 +64,7 @@
 
 ```js
 document.body.style.backgroundColor = "lightgoldenrodyellow";
-document.body.innerHTML = "<h1>Bienvenue les CM2 ! 🎉</h1>";
+document.body.innerHTML = "<h1>Bienvenue les CM1-CM2 ! 🎉</h1>";
 ```
 
 ---
