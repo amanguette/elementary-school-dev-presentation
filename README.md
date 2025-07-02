@@ -146,3 +146,16 @@ for (let i = 1; i <= nombreEleves; i++) {
   [https://designsystem.porsche.com/v3/](https://designsystem.porsche.com/v3/)
 
 - 💾 GitHub Porsche Design System :  
+  [https://github.com/porsche-design-system/porsche-design-system](https://github.com/porsche-design-system/porsche-design-system)
+
+- 🎨 Figma Porsche :  
+  [https://www.figma.com/@porsche](https://www.figma.com/@porsche)
+
+- 🌐 Site officiel Porsche :  
+  [https://www.porsche.com/france/](https://www.porsche.com/france/)
+
+- 📖 Liste des codes d’erreur HTTP :  
+  [https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP)
+
+- 📖 Code 418 "I'm a teapot" :  
+  [https://fr.wikipedia.org/wiki/Erreur_HTTP_418](https://fr.wikipedia.org/wiki/Erreur_HTTP_418)
