@@ -76,7 +76,7 @@ for (let i = 1; i <= nombreEleves; i++) {
 }
 ```
 
-### 3. Version console : afficher les prénoms dans la console
+### 3. afficher les prénoms dans la console
 
 ```js
 let eleves = ["Lina", "Adam", "Inès", "Tom", "Maya"];
@@ -91,39 +91,11 @@ for (let i = 0; i < eleves.length; i++) {
 }
 ```
 
-🟢 Ouvre la console du navigateur (`F12`, onglet “Console”) et colle ce code pour voir le résultat !
-
----
-
-### 🖥️ Version visuelle : afficher directement dans la page
-
 ```js
 let eleves = ["Lina", "Adam", "Inès", "Tom", "Maya"];
 
 for (let i = 0; i < eleves.length; i++) {
   document.body.innerHTML += `<p>👋 Bonjour ${eleves[i]} !</p>`;
-}
-```
-
-💡 Cela ajoute une ligne pour chaque élève directement dans la page web.
-
----
-
-### 💬 À expliquer aux élèves :
-- Un **tableau** est une liste d’éléments (ici, des prénoms).
-- La **boucle `for`** permet de répéter une action : ici, saluer chaque prénom.
-- On peut afficher des choses soit :
-  - dans la **console** (`console.log`)
-  - soit **dans la page** (`document.body.innerHTML`)
-
----
-
-### 3. Variante console uniquement
-
-```js
-let nombreEleves = 5;
-for (let i = 1; i <= nombreEleves; i++) {
-  console.log("Bonjour élève n°" + i);
 }
 ```
 
