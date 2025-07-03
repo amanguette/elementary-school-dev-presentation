@@ -99,6 +99,19 @@ for (let i = 0; i < eleves.length; i++) {
 }
 ```
 
+
+```js
+function compterEleves(classe) {
+  return classe.length;
+}
+
+let maClasse = ["Lina", "Adam", "Inès", "Tom", "Maya"];
+let nombre = compterEleves(maClasse);
+
+console.log("Il y a " + nombre + " élèves dans la classe.");
+
+```
+
 ---
 
 ## 🟣 6. Discussion et conclusion (2–3 min)
